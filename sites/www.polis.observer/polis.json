@@ -1,0 +1,17 @@
+{
+    "id": "0345EE7D-1B4E-4E62-BF87-39B5A9D7596F",
+    "name": "POLIS Home",
+    "description": "This is the root POLIS provider. The site is still in experimental mode and not publicly available",
+    "lastUpdate": "2020-11-25T12:16:01.746Z",
+    "supportedProtocolLevels": [
+        1
+    ],
+    "supportedAPIVersions": [
+        "0.1",
+        "*"
+    ],
+    "supportedAPIVersions": [
+        "json"
+    ],
+    "providerType": "experimental"
+}
