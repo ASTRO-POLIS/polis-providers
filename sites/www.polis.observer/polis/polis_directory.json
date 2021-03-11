@@ -1,12 +1,12 @@
 {
-    "lastUpdate": "2020-11-25T12:16:01.746Z",
+    "lastUpdate": "2020-12-06T20:16:01.746Z",
     "entries": [
         {
             "id": "0345EE7D-1B4E-4E62-BF87-39B5A9D7596F",
             "name": "POLIS Home",
-            "domain": "https://www.polis.observer",
-            "description": "This is the root POLIS provider. The site is still in experimental mode and not publicly available",
-            "lastUpdate": "2020-11-25T12:16:01.746Z",
+            "domain": "https://polis.observer",
+            "providerDescription": "This is the root POLIS provider. The site is still in experimental mode and not publicly available",
+            "lastUpdate": "2020-12-06T20:16:01.746Z",
             "supportedProtocolLevels": [
                 1
             ],
@@ -22,8 +22,8 @@
             "id": "ED8277C8-E8CE-4990-B0EC-C0C66898E730",
             "domain": "https://sandbox.polis.observer",
             "name": "POLIS Sandbox",
-            "description": "This is the POLIS site for testing new ideas and experiments",
-            "lastUpdate": "2020-11-25T12:16:01.746Z",
+            "providerDescription": "This is the POLIS site for testing new ideas and experiments",
+            "lastUpdate": "2020-12-06T20:16:01.746Z",
             "supportedProtocolLevels": [
                 1,
                 2
